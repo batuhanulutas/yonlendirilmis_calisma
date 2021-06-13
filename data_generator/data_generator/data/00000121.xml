@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>00000121.jpg</filename>
+	<path>C:\Users\Batuhan\source\repos\data_generator\data_generator\data\00000121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>55</ymin>
+			<xmax>448</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>
